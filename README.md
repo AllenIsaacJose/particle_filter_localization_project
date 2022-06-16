@@ -4,5 +4,5 @@ Reference page: https://classes.cs.uchicago.edu/archive/2021/spring/20600-1/part
 
 To run:
 1. Terminal 1 - roscore
-2. Terminal 2 - source devel/setup.bash and then roslaunch turtlebot3_gazebo turtlebot3_house.launch
+2. Terminal 2 - source ~/catkin_ws/devel/setup.bash and then roslaunch turtlebot3_gazebo turtlebot3_house.launch
 3. 
